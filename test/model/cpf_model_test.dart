@@ -2,7 +2,7 @@ import 'package:cpf_validator/model/cpf_model.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 
-final meuCpf = CpfModel(cpf: '10640397662');
+final meuCpf = CpfModel(cpf: '11111111111');
 final cpfInvalido = CpfModel(cpf: '00114223654');
 
 
